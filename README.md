@@ -1,0 +1,3 @@
+This repository contains a Pluto notebook from medical image analysis project created for the Julia for Data Analysis in Ecology and Evolution PhD course held at the University of Copenhagen in October 2021. To run the notebook you need the original data which is not yet available, as it has not been published. 
+
+You can access html rendering  of the notebook at: https://gmaciag.github.io/julia_course_image/
